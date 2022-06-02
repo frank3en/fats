@@ -1,0 +1,2 @@
+# fats
+Algorithm in TypeScript
